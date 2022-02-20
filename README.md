@@ -7,6 +7,8 @@
 
 📚 I've learned and keep improving in:
 
+<p>
+
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -37,8 +39,11 @@
 
 <img align="left" alt="Slack" width="30px" src="https://img.icons8.com/color/452/slack-new.png" />
 
-⚡ I love playing piano, reading, long walks with my dog, series, movies and learning something new everyday. 
+</p>
+<br>
+<br>
 
+⚡ I love playing piano, reading, long walks with my dog, series, movies and learning something new everyday. 
 
 You can reach me : 
 
