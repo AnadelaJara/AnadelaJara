@@ -5,6 +5,8 @@
 
 🔭 I’m currently working on my porfolio and my personal projet to improve and consolidate all the knowledge lerned during the Adalab bootcamp.
 
+❤️ I love travelling, playing piano, reading, long walks with my dog, series, movies, and learning something new everyday. 
+
 📚 I've learned and keep improving in:
 
 <p>
@@ -43,7 +45,7 @@
 <br>
 <br>
 
-⚡ I love playing piano, reading, long walks with my dog, series, movies and learning something new everyday. 
+
 
 You can reach me : 
 
