@@ -3,7 +3,7 @@
 ## Recently graduated Jr. front-end developer from Madrid looking for my first job opportunity in tech industry, after many years in the travel industry.
 
 
-🔭 I’m currently working on my porfolio and my personal projet to improve and consolidate all the knowledge lerned during the Adalab bootcamp.
+🔭 I’m currently working on my porfolio and my personal projet to improve and consolidate all the knowledge lerned during the Adalab bootcamp. I'm also starting testing courses in Cypress and Jest to further my knowlege. 
 
 ❤️ I love travelling, playing piano, reading, long walks with my dog, series, movies, and learning something new everyday. 
 
